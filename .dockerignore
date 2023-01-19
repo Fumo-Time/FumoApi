@@ -1,0 +1,5 @@
+.vscode/
+.dist/
+.gitignore
+.editorconfig
+README.md
