@@ -1,4 +1,4 @@
-# fumo-api
+# Fumo-api
 
 ## Introduction
 
@@ -6,7 +6,7 @@ This is the API for the Fumo bot. It is a simple API that returns a random fumo.
 
 ## Installation
 
-To install the API, you need to have NodeJS and NPM installed. You can get them from [here](https://nodejs.org/en/download/).
+To install the API, you need to have NodeJS and Yarn installed. You can get them from [here](https://nodejs.org/en/download/).
 
 Once you have NodeJS and yarn installed, you can install the dependencies by running the following command:
 
