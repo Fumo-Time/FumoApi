@@ -29,7 +29,7 @@ The API uses environment variables to configure itself. The following environmen
 
 ## API Documentation
 
-This API has only one endpoint, which is used to get the current weather for a given location. The endpoint is `/random` and it accepts a `GET` request. for browsers, you can simply visit the URL `http://localhost:3000/random` to get a random fumo.
+This API has only one endpoint, which is used to get a random fumo image. The endpoint is `/random` and it accepts a `GET` request. for browsers, you can simply visit the URL `http://localhost:3000/random` to get a random fumo.
 
 If you are using a REST client, you can use the `Content-Type: application/json` header to get a JSON response.
 
